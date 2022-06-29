@@ -1,5 +1,5 @@
 # MiniDanil
-The discord bot
-He can:
--delete messages
--spam messages
+The discord bot \n
+He can: \n
+-delete messages \n
+-spam messages 
