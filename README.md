@@ -1,4 +1,4 @@
-# MiniDanil
+# Cleaner
 The discord bot.
 He can:
 -delete messages
