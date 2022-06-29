@@ -1,11 +1,11 @@
 import discord
 from discord.ext import commands
-TOKEN = '' # ТУТ СЕКРЕТНЫЙ КОД
+TOKEN = '' # There should be a secret code here
 
 bot = commands.Bot(command_prefix='%')
 @bot.command(pass_context=True)
 async def hello(m):
-    await m.send('привет, я бот')
+    await m.send('Hi, i`m bot')
 
 @bot.command(pass_context=True)
 async def wash(ctx):
